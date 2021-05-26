@@ -1,0 +1,28 @@
+button {
+    justify-content: space-between;
+    font-size: 20px;
+    color:#EFEBE2;
+    background-color: #B175FF;
+    border-color: #07040A;
+}
+
+#btnDiv {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+#tableDiv {
+    display:flex;
+    justify-content: center;
+}
+
+#dataTable {
+    text-align: center;
+    width:100%;
+    color:#EFEBE2;
+    background-color: #B175FF;
+    border-style: solid;
+    border-color: #07040A;
+}

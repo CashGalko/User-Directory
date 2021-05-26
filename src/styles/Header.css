@@ -1,0 +1,13 @@
+#headerDiv {
+    display: flex;
+    justify-content: center;
+    background-color: #AB0552;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color:#030303;
+}
+
+#headerText {
+    font-size: 42px;
+    color:cornsilk;
+}
